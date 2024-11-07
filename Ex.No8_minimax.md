@@ -1,7 +1,7 @@
 # Ex.No: 8  Implementation of Minimax Search
 ### DATE:   
-# NAME : A.ANBUSELVAM
-### REGISTER NUMBER : 212221240009
+# NAME : ARCHANA K
+### REGISTER NUMBER : 212222240011
 ### AIM: 
 Write a mini-max search algorithm to find the optimal value of MAX Player from the given graph.
 ### Algorithm:
